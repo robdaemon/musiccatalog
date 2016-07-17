@@ -1,0 +1,10 @@
+[package]
+name = "musiccatalog"
+version = "0.1.0"
+authors = ["Robert Roland <rob.roland@gmail.com>"]
+
+[dependencies]
+log = "0.3.6"
+id3 = "0.1.10"
+rusqlite = "0.7.3"
+notify = "2.6.2"
